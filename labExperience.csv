@@ -1,21 +1,21 @@
-ID,Titolo,Argomento,Classe,Materiali,LinkPagina
-b0001,Legge di Hook,Meccanica,I,a0004;a003;a0001,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0002,Misure dirette con calibro,Meccanica,I,a0007;a0015;a0026;a0030;a0031,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0003,Calorimetro delle mescolanze,Termodinamica,I;II,a0008;a0021;a0029,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0004,Prima legge Ohm,Elettricità,IV,a0016;a0044;a0036;a0030,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0005,Cofficiente di attrito statico su piano inclinato,Meccanica,I,a0004;a003;a0001,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0006,Principio di Archimede,Fluidi,I,a0007;a0015;a0026;a0030;a0031,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0007,Guidovia e moto accelerato,Meccanica,II,a0008;a0021;a0029,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0008,Pendolo,Meccanica,I;III,a0016;a0044;a0036;a0030,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0009,Esperienza Test1,Test,V,a0004;a003;a0001,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0010,Esperienza Test2,Test,IV,a0007;a0015;a0026;a0030;a0031,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0011,Esperienza Test3,Test,III,a0008;a0021;a0029,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0012,Esperienza Test4,Test,II,a0016;a0044;a0036;a0030,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0013,Esperienza Test5,Test,I;II;III,a0004;a003;a0001,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0014,Esperienza Test6,Test,IV,a0007;a0015;a0026;a0030;a0031,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0015,Esperienza Test7,Test,IV;V,a0008;a0021;a0029,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0016,Esperienza Test8,Test,II;III,a0016;a0044;a0036;a0030,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0017,Esperienza Test9,Test,V,a0004;a003;a0001,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0018,Esperienza Test10,Test,IV,a0007;a0015;a0026;a0030;a0031,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0019,Esperienza Test11,Test,I,a0008;a0021;a0029,http://incontriconlafisica.weebly.com/scheda-esperienza.html
-b0020,Esperienza Test12,Test,II,a0016;a0044;a0036;a0030,http://incontriconlafisica.weebly.com/scheda-esperienza.html
+ID,Titolo,Argomento,Classe,Materiali,LinkGoogle
+b0001,Legge di Hook,Meccanica,I,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0002,Misure dirette con calibro,Meccanica,I,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0003,Calorimetro delle mescolanze,Termodinamica,I;II,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0004,Prima legge Ohm,Elettricità,IV,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0005,Cofficiente di attrito statico su piano inclinato,Meccanica,I,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0006,Principio di Archimede,Fluidi,I,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0007,Guidovia e moto accelerato,Meccanica,II,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0008,Pendolo,Meccanica,I;III,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0009,Esperienza Test1,Test,V,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0010,Esperienza Test2,Test,IV,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0011,Esperienza Test3,Test,III,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0012,Esperienza Test4,Test,II,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0013,Esperienza Test5,Test,I;II;III,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0014,Esperienza Test6,Test,IV,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0015,Esperienza Test7,Test,IV;V,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0016,Esperienza Test8,Test,II;III,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0017,Esperienza Test9,Test,V,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0018,Esperienza Test10,Test,IV,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0019,Esperienza Test11,Test,I,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0020,Esperienza Test12,Test,II,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
