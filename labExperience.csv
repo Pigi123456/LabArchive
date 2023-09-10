@@ -1,21 +1,22 @@
-ID,Titolo,Argomento,Classe,Materiali,LinkGoogle
-b0001,Legge di Hook,Meccanica,I,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0002,Misure dirette con calibro,Meccanica,I,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0003,Calorimetro delle mescolanze,Termodinamica,I;II,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0004,Prima legge Ohm,Elettricità,IV,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0005,Cofficiente di attrito statico su piano inclinato,Meccanica,I,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0006,Principio di Archimede,Fluidi,I,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0007,Guidovia e moto accelerato,Meccanica,II,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0008,Pendolo,Meccanica,I;III,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0009,Esperienza Test1,Test,V,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0010,Esperienza Test2,Test,IV,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0011,Esperienza Test3,Test,III,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0012,Esperienza Test4,Test,II,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0013,Esperienza Test5,Test,I;II;III,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0014,Esperienza Test6,Test,IV,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0015,Esperienza Test7,Test,IV;V,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0016,Esperienza Test8,Test,II;III,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0017,Esperienza Test9,Test,V,a0004;a003;a0001,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0018,Esperienza Test10,Test,IV,a0007;a0015;a0026;a0030;a0031,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0019,Esperienza Test11,Test,I,a0008;a0021;a0029,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
-b0020,Esperienza Test12,Test,II,a0016;a0044;a0036;a0030,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+labEsperienze
+ID,Titolo,Argomento,Classe,Materiali,Cerca,Stelle,LinkGoogle
+b0001,Legge di Hook,Meccanica,I,a0004;a003;a0001,Legge di Hook,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0002,Misure dirette con calibro,Meccanica,I,a0007;a0015;a0026;a0030;a0031,Misure dirette con calibro,1,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0003,Calorimetro delle mescolanze,Termodinamica,I;II,a0008;a0021;a0029,Calorimetro delle mescolanze,0,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0004,Prima legge Ohm,Elettricità,IV,a0016;a0044;a0036;a0030,Prima legge Ohm,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0005,Cofficiente di attrito statico su piano inclinato,Meccanica,I,a0004;a003;a0001,Cofficiente di attrito statico su piano inclinato,1,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0006,Principio di Archimede,Fluidi,I,a0007;a0015;a0026;a0030;a0031,Principio di Archimede,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0007,Guidovia e moto accelerato,Meccanica,II,a0008;a0021;a0029,Guidovia e moto accelerato,3,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0008,Pendolo,Meccanica,I;III,a0016;a0044;a0036;a0030,Pendolo,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0009,Esperienza Test1,Test,V,a0004;a003;a0001,Esperienza Test1,1,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0010,Esperienza Test2,Test,IV,a0007;a0015;a0026;a0030;a0031,Esperienza Test2,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0011,Esperienza Test3,Test,III,a0008;a0021;a0029,Esperienza Test3,0,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0012,Esperienza Test4,Test,II,a0016;a0044;a0036;a0030,Esperienza Test4,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0013,Esperienza Test5,Test,I;II;III,a0004;a003;a0001,Esperienza Test5,1,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0014,Esperienza Test6,Test,IV,a0007;a0015;a0026;a0030;a0031,Esperienza Test6,3,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0015,Esperienza Test7,Test,IV;V,a0008;a0021;a0029,Esperienza Test7,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0016,Esperienza Test8,Test,II;III,a0016;a0044;a0036;a0030,Esperienza Test8,0,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0017,Esperienza Test9,Test,V,a0004;a003;a0001,Esperienza Test9,2,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0018,Esperienza Test10,Test,IV,a0007;a0015;a0026;a0030;a0031,Esperienza Test10,1,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0019,Esperienza Test11,Test,I,a0008;a0021;a0029,Esperienza Test11,0,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
+b0020,Esperienza Test12,Test,II,a0016;a0044;a0036;a0030,Esperienza Test12,3,https://drive.google.com/file/d/1ROvqwqTV0IhY9NVKT8JEG-Mxm3EasQyR/view?usp=sharing
