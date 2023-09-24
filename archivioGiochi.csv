@@ -1,0 +1,49 @@
+ID,Nome,Posizione,Quantità,Argomento,ParoleChiave,URLImmagine
+g0001,Architets,Armadio 1,10,Meccanica,metro nastro strumento misura,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR7lVQhOR3ASnUXlHi5KwInQl7q22MMvouEKoUamz7ZwnYlgxpA9Agy9V9IEIsRSO3I23N1zVKaYOE9jp_PjrnjSzR0Ny6dGXQfqOOmwgsE1XremnTg1eh8&usqp=CAc
+g0002,Guida,Armadio 2,2,Meccanica,guida aria,https://www.optikascience.com/optikascience/wp-content/uploads/2016/04/4012-5590-Rotaia-a-cuscino-d%E2%80%99aria-2.0-m.jpg
+g0003,Base e Asta,Armadio 4,3,Meccanica,base sostegno asta,https://ita.labbox.com/wp-content/uploads/sites/9/2020/01/TSTM-135-001.jpg
+g0004,Kit Hooke,Armadio 1,2,Meccanica,asta base molle peso,https://www.3bscientific.com/thumblibrary/U40816/U40816_01_1200_1200_Set-molle-ad-elica-per-verificare-la-legge-di-Hooke.jpg
+g0005,Termometro,Armadio 2,1,Termodinamica,termometro strumento,https://m.media-amazon.com/images/I/316kbFpSlzL._SX342_SY445_QL70_ML2_.jpg
+g0006,Magneti,Armadio 4,2,Magnetismo,magnete calamita,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKp0tW63FmUxLCRG5CQf6-eaFlkj1UG6mxXD0NSxyTq-dxZOt-wZUCYs53Boj2PXDSb6DJHASY5Q3mTcTj72eYk5_1nmwYe5kZJGtRo_SfFSYZLeKcnEGTlcad&usqp=CAc
+g0007,Tubi,Armadio 3,1,Fluidi,tubo,https://m.media-amazon.com/images/I/61J00X324PL._AC_SL1001_.jpg
+g0008,Pompa,Armadio 2,2,Fluidi,pompa,https://m.media-amazon.com/images/I/61GTYsBuQmL._AC_SL1200_.jpg
+g0009,Prisma,Armadio 1,1,Ottica,prisma,https://media.giodicart.cloud/p/l/7255.webp
+g0010,Masse,Armadio 2,2,Meccanica,massa peso pesi,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0tvuaFK9pMuplhXI9pzZ5gvmt91INsyKwpRyx3A8_ws9Ce0G-xlkv7SiNTegY-SpxJQ&usqp=CAU
+g0011,Elettrometro,Armadio 1,1,Elettrostatica,elettrometro,https://www.lombardiabeniculturali.it/new_img_db/bcpst/8e020/1/l/SC_PST_8e020-00158_IMG-0000044873.jpg
+g0012,Carrucola,Armadio 2,1,Meccanica,carrucola,https://img.edilportale.com/product-thumbs/b_CARRUCOLE-ARCHISELLER-PLT-VIGLIETTA-GROUP-VIGOR-401925-rel6e82e533.jpg
+g0013,Cavo,Armadio 1,1,Elettrostatica,cavo elettrico filo,https://static.ledlux.it/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/a/pa4311_--_000_3806_.jpg
+g0014,Presa,Armadio 2,1,Magnetismo,adattatore presa ,https://media.adeo.com/marketplace/MKP/82947173/9d6639c755992e314ed6980bfbe29a71.jpeg?width=650&height=650&format=jpg&quality=80&fit=bounds
+g0015,Filo di Rame,Armadio 1,2,Magnetismo,filo rame,https://m.media-amazon.com/images/I/41zpQSklbKL._AC_UF1000,1000_QL80_.jpg
+g0016,Calamita a U,Armadio 2,2,Magnetismo,calamita magnete U,https://www.omniatek.it/ecom/image/cache/winlab%20magnete%20a%20ferro%20di%20cavallo-400x400.jpg
+g0017,Sfere cave,Armadio 4,3,Elettrostatica,sfere cave,https://www.fstfirenze.it/wp-content/uploads/2017/05/CD002-038.jpg
+g0018,Test1,Armadio 3,1,Test,Test1,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0019,Test2,Armadio 3,1,Test,Test2,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0020,Test3,Armadio 1,1,Test,Test3,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0021,Test4,Armadio 2,1,Test,Test4,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0022,Test5,Armadio 4,1,Test,Test5,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0023,Test6,Armadio 3,1,Test,Test6,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0024,Test7,Armadio 1,1,Test,Test7,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0025,Test8,Armadio 2,1,Test,Test8,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0026,Test9,Armadio 4,1,Test,Test9,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0027,Test10,Armadio 1,1,Test,Test10,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0028,Test11,Armadio 1,1,Test,Test11,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0029,Test12,Armadio 2,1,Test,Test12,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0030,Test13,Armadio 4,1,Test,Test13,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0031,Test14,Armadio 3,1,Test,Test14,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0032,Test15,Armadio 4,1,Test,Test15,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0033,Test16,Armadio 3,1,Test,Test16,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0034,Test17,Armadio 4,1,Test,Test17,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0035,Test18,Armadio 1,1,Test,Test18,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0036,Test19,Armadio 2,1,Test,Test19,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0037,Test20,Armadio 4,1,Test,Test20,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0038,Test21,Armadio 3,1,Test,Test21,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0039,Test22,Armadio 1,1,Test,Test22,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0040,Test23,Armadio 1,1,Test,Test23,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0041,Test24,Armadio 1,1,Test,Test24,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0042,Test25,Armadio 1,1,Test,Test25,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0043,Test26,Armadio 2,1,Test,Test26,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0044,Test27,Armadio 4,1,Test,Test27,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0045,Test28,Armadio 1,1,Test,Test28,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0046,Test29,Armadio 2,1,Test,Test29,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0047,Test30,Armadio 4,1,Test,Test30,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+g0048,Test31,Armadio 1,1,Test,Test31,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=
