@@ -14,8 +14,8 @@ g0012,Exploding Kittens - Zombie Kittens,Casa,15,2;5,Ultimo Sopravvissuto; Parod
 g0013,Exploding Kittens - Party Edition,Casa,15,2;10,Ultimo Sopravvissuto; Parodia,Exploding Kittens - Party Edition Casa Ultimo Sopravvissuto; Parodia,https://www.dl.dropboxusercontent.com/scl/fi/8wjvfr09k8bazbay6x5xm/explodingKittens_partyEdition.jpg?rlkey=xkykxfuv0mnfofgqcsvfnmqt4&dl=0
 g0014,Munchkin,Casa,30,3;6,Gioco di Ruolo; Parodia,Munchkin Casa Gioco di Ruolo; Parodia,https://www.dl.dropboxusercontent.com/scl/fi/vq7e13sdp4klywbtj3wcy/munchkin.jpg?rlkey=139q6bo4jdv716d7711ikmf7m&dl=0
 g0015,Backgammon,Casa,15,2,Classico,Backgammon Casa Classico,https://www.dl.dropboxusercontent.com/scl/fi/zuiyzcvspnfddfvl09bkj/backgammon.png?rlkey=d63b80gn1g6tgjmhuwh7gp6x8&dl=0
-g0016,Carte Napoletane,Casa,15,1;4+,Classico,Carte Napoletane Casa Classico,https://www.dl.dropboxusercontent.com/scl/fi/mb7jro6l8pcvc7uuqhtip/carteNapoletane.jpeg?rlkey=km3p17kvt07o1bid925trs19d&dl=0
-g0017,Carte Trevigiane,Casa,15,1;4+,Classico,Carte Trevigiane Casa Classico,https://www.dl.dropboxusercontent.com/scl/fi/9a8dx2y92u1vgl5ztbvhk/carteTrevigiane.jpeg?rlkey=281xfac0y1uskqj3mz6canhcg&dl=0
+g0016,Carte Napoletane,Casa,15,1;4,Classico,Carte Napoletane Casa Classico,https://www.dl.dropboxusercontent.com/scl/fi/mb7jro6l8pcvc7uuqhtip/carteNapoletane.jpeg?rlkey=km3p17kvt07o1bid925trs19d&dl=0
+g0017,Carte Trevigiane,Casa,15,1;4,Classico,Carte Trevigiane Casa Classico,https://www.dl.dropboxusercontent.com/scl/fi/9a8dx2y92u1vgl5ztbvhk/carteTrevigiane.jpeg?rlkey=281xfac0y1uskqj3mz6canhcg&dl=0
 g0018,Talisman,Casa,90,2;6,Gioco di Ruolo;,Talisman Casa Gioco di Ruolo;,https://www.dl.dropboxusercontent.com/scl/fi/hgnaw17pzdnedncjy0jez/talisman.jpeg?rlkey=xihtai0kem8wnfwnpt2qfek24&dl=0
 g0019,The Mind,Casa,20,2;4,Cooperativo,The Mind Casa Cooperativo,https://www.dl.dropboxusercontent.com/scl/fi/x4fczg5f5g7u29ts0a389/theMind.jpg?rlkey=zsguuspbmoqkmfm1n19eyttgk&dl=0
 g0020,Tokyo Highway,Casa,30,2;4,Manualità,Tokyo Highway Casa Manualità,https://www.dl.dropboxusercontent.com/scl/fi/8o5xasfy4qstt1vtqmkio/tokyoHighway.jpg?rlkey=0ro279c5ayhox56pkapw75io4&dl=0
@@ -25,53 +25,52 @@ g0023,Room 25,Casa,30,1;6,Impostore; Strategia,Room 25 Casa Impostore; Strategia
 g0024,Room 25 - Season 2,Casa,30,1;8,Impostore; Strategia,Room 25 - Season 2 Casa Impostore; Strategia,https://www.dl.dropboxusercontent.com/scl/fi/m8f7v9jw7271jeg9ljtw6/room25Season2.jpg?rlkey=x6leg8q0zbyxvjr604zod7f25&dl=0
 g0025,Just One,Casa,30,3;5,Cooperativo; Parole,Just One Casa Cooperativo; Parole,https://www.dl.dropboxusercontent.com/scl/fi/nuk7oqx0k49ubv4wg2hk6/justOne.jpeg?rlkey=3fbbqwosz4031briplfj2ou4v&dl=0
 g0026,Pictures,Casa,30,3;5,,Pictures Casa ,https://www.dl.dropboxusercontent.com/scl/fi/bi24mts50z2cpektbxach/pictures.png?rlkey=1wkx0p1rhv0oao4hu4l38euyc&dl=0
-g0027,Kaleidos,Casa,,,,Kaleidos Casa ,https://www.dl.dropboxusercontent.com/scl/fi/rzpic59mzd5g3sna4a7p2/kaleidos.jpg?rlkey=04bjnr1rdi5qmg9onq9av58pd&dl=0
-g0028,Splendor,Casa,30,2;4,,Splendor Casa ,https://www.dl.dropboxusercontent.com/scl/fi/6f9p6ij587kgso310h5hh/splendor.jpg?rlkey=sgkfa2rnnd74560c44guqb9i1&dl=0
-g0029,Mano Lesta,Casa,15,2;6,,Mano Lesta Casa ,https://www.dl.dropboxusercontent.com/scl/fi/dqse2bbmdfet0n9ltys7d/manolesta.jpeg?rlkey=zirk2bm0zeywb4grl3wciamn9&dl=0
-g0030,Lince,Casa,20,2;6,,Lince Casa ,https://www.dl.dropboxusercontent.com/scl/fi/ye84rlxz43mm1c9zj9dta/lince.jpg?rlkey=2un4nte25jblg4pkqc5q6anld&dl=0ù
-g0031,Arsenic,Casa,15,1;6,,Arsenic Casa ,https://www.dl.dropboxusercontent.com/scl/fi/c0cfzbhktb4occbmc0ldy/arsenic.jpeg?rlkey=7ov3n77zwxlk01r7eeq0okmci&dl=0
-g0032,Taco Gatto Cacio Pizza,Casa,15,2;4,,Taco Gatto Cacio Pizza Casa ,https://www.dl.dropboxusercontent.com/scl/fi/2ll2glurp9xnals7wkqo5/tacoGattoCapraCacioPizza.jpg?rlkey=78oz5mgbec6covlxfslami1w8&dl=0
-g0033,Da Vinci Code,Casa,15,2;4,,Da Vinci Code Casa ,https://www.dl.dropboxusercontent.com/scl/fi/orsynjogub6j5hlp8c0op/davincicode.jpeg?rlkey=lujcgxkju84nga37bg83wi53s&dl=0
-g0034,Dwarfest,Casa,45,2;6,,Dwarfest Casa ,https://www.dl.dropboxusercontent.com/scl/fi/hlcat1wk4snk70sogkufy/baruffaveneta.png?rlkey=48mletkufdy4zqg30lvfn1h2z&dl=0
-g0035,A Game of Cat and Mouth,Genitori Vr,10,2,,A Game of Cat and Mouth Genitori Vr ,
-g0036,Imagine,Casa,30,3;8,,Imagine Casa ,https://www.dl.dropboxusercontent.com/scl/fi/dezps5q0exwttyo0gojrq/imagine.png?rlkey=a9dzol7pk8tdnqwg2rwemr5dt&dl=0
-g0037,Baruffa Veneta,Casa,60,2;6,,Baruffa Veneta Casa ,https://www.dl.dropboxusercontent.com/scl/fi/hlcat1wk4snk70sogkufy/baruffaveneta.png?rlkey=48mletkufdy4zqg30lvfn1h2z&dl=0
-g0038,Throw Throw Burrito,Casa,15,2;6,,Throw Throw Burrito Casa ,
-g0039,Dixit - Memories,Casa,30,3;6,,Dixit - Memories Casa ,
-g0040,Concept,Casa,40,4;12+,,Concept Casa ,
-g0041,Exit - La Tomba del Faraone,Casa,45;90,1;6,,Exit - La Tomba del Faraone Casa ,
-g0042,Jenga,Casa,,,,Jenga Casa ,https://www.dl.dropboxusercontent.com/scl/fi/l0h71ih7ib0fh65suouy4/jenga.png?rlkey=2hwte51ww83g27i9xw9bb9iay&dl=0
-g0043,Scotland Yard,Casa,30,3;6,,Scotland Yard Casa ,
-g0044,Kaleidos,Casa,20,2+,,Kaleidos Casa ,https://www.dl.dropboxusercontent.com/scl/fi/rzpic59mzd5g3sna4a7p2/kaleidos.jpg?rlkey=04bjnr1rdi5qmg9onq9av58pd&dl=0
-g0045,Cranium,Casa,45;60,4+,,Cranium Casa ,
-g0046,Cortex+,Casa,15,2;6,,Cortex+ Casa ,
-g0047,I Soliti Sospetti,Casa,20,3;18,,I Soliti Sospetti Casa ,
-g0048,Metereopatici,Casa,45;60,2;4,,Metereopatici Casa ,
-g0049,Lego - City Alarm,Casa,10;20,2;4,,Lego - City Alarm Casa ,
-g0050,Adrenalina,Casa,60,3;5,,Adrenalina Casa ,
-g0051,Twister,Casa,15,2+,,Twister Casa ,
-g0052,Forza Quattro Travel,Casa,5,2,,Forza Quattro Travel Casa ,
-g0053,Carte Siciliane,Casa,15,1;4+,Classico,Carte Siciliane Casa Classico,
-g0054,Carte Trentine,Casa,15,1;4+,Classico,Carte Trentine Casa Classico,
-g0055,Carte Triestine,Casa,15,1;4+,Classico,Carte Triestine Casa Classico,
-g0056,Carte Francesi,Casa,15,1;4+,Classico,Carte Francesi Casa Classico,
-g0057,Pictionary,Casa,90,1;90,,Pictionary Casa ,
-g0058,Nome In Codice Visual,Casa,90,1;90,,Nome In Codice Visual Casa ,
-g0059,Monopoli,Casa,90,1;90,,Monopoli Casa ,
-g0060,Similo Storia,Casa,90,1;90,,Similo Storia Casa ,
-g0061,Similo Fiabe,Casa,90,1;90,,Similo Fiabe Casa ,
-g0062,Speedy Words,Casa,90,1;90,,Speedy Words Casa ,
-g0063,Potion,Casa,90,1;90,,Potion Casa ,
-g0064,Hive,Casa,90,1;90,,Hive Casa ,
-g0065,Cluedo Travel,Casa,90,1;90,,Cluedo Travel Casa ,
-g0066,Lego - Creationary,Casa,90,1;90,,Lego - Creationary Casa ,
-g0067,Bluff Party,Casa,90,1;90,,Bluff Party Casa ,
-g0068,Carcassonne,Casa,90,1;90,,,
-g0069,Focus Storia,Casa,90,1;90,,,
-g0070,Parola per Parola,Casa,90,1;90,,,
-g0071,Couleur de Paris,Casa,90,1;90,,,
-g0072,È Tutta un'Altra Storia,Casa,90,1;90,,,
-g0073,28,Casa,90,1;90,,,
-g0074,Azul - Maître Chocolatier,Casa,90,1;90,,,ok
-g0075,insektbanko - bug bingo,Casa,90,1;90,,,ok
-g0076,Paise - Il Gioco dei Trulli,Casa,90,1;90,,,ok
+g0027,Splendor,Casa,30,2;4,,Splendor Casa ,https://www.dl.dropboxusercontent.com/scl/fi/6f9p6ij587kgso310h5hh/splendor.jpg?rlkey=sgkfa2rnnd74560c44guqb9i1&dl=0
+g0028,Mano Lesta,Casa,15,2;6,,Mano Lesta Casa ,https://www.dl.dropboxusercontent.com/scl/fi/dqse2bbmdfet0n9ltys7d/manolesta.jpeg?rlkey=zirk2bm0zeywb4grl3wciamn9&dl=0
+g0029,Lince,Casa,20,2;6,,Lince Casa ,https://www.dl.dropboxusercontent.com/scl/fi/ye84rlxz43mm1c9zj9dta/lince.jpg?rlkey=2un4nte25jblg4pkqc5q6anld&dl=0ù
+g0030,Arsenic,Casa,15,1;6,,Arsenic Casa ,https://www.dl.dropboxusercontent.com/scl/fi/c0cfzbhktb4occbmc0ldy/arsenic.jpeg?rlkey=7ov3n77zwxlk01r7eeq0okmci&dl=0
+g0031,Taco Gatto Cacio Pizza,Casa,15,2;4,,Taco Gatto Cacio Pizza Casa ,https://www.dl.dropboxusercontent.com/scl/fi/2ll2glurp9xnals7wkqo5/tacoGattoCapraCacioPizza.jpg?rlkey=78oz5mgbec6covlxfslami1w8&dl=0
+g0032,Da Vinci Code,Casa,15,2;4,,Da Vinci Code Casa ,https://www.dl.dropboxusercontent.com/scl/fi/orsynjogub6j5hlp8c0op/davincicode.jpeg?rlkey=lujcgxkju84nga37bg83wi53s&dl=0
+g0033,Dwarfest,Casa,45,2;6,,Dwarfest Casa ,https://www.dl.dropboxusercontent.com/scl/fi/hlcat1wk4snk70sogkufy/baruffaveneta.png?rlkey=48mletkufdy4zqg30lvfn1h2z&dl=0
+g0034,A Game of Cat and Mouth,Genitori Vr,10,2,,A Game of Cat and Mouth Genitori Vr ,
+g0035,Imagine,Casa,30,3;8,,Imagine Casa ,https://www.dl.dropboxusercontent.com/scl/fi/dezps5q0exwttyo0gojrq/imagine.png?rlkey=a9dzol7pk8tdnqwg2rwemr5dt&dl=0
+g0036,Baruffa Veneta,Casa,60,2;6,,Baruffa Veneta Casa ,https://www.dl.dropboxusercontent.com/scl/fi/hlcat1wk4snk70sogkufy/baruffaveneta.png?rlkey=48mletkufdy4zqg30lvfn1h2z&dl=0
+g0037,Throw Throw Burrito,Casa,15,2;6,,Throw Throw Burrito Casa ,
+g0038,Dixit - Memories,Casa,30,3;6,,Dixit - Memories Casa ,
+g0039,Concept,Casa,40,4;12+,,Concept Casa ,
+g0040,Exit - La Tomba del Faraone,Casa,45;90,1;6,,Exit - La Tomba del Faraone Casa ,
+g0041,Jenga,Casa,10,1;2,,Jenga Casa ,https://www.dl.dropboxusercontent.com/scl/fi/l0h71ih7ib0fh65suouy4/jenga.png?rlkey=2hwte51ww83g27i9xw9bb9iay&dl=0
+g0042,Scotland Yard,Casa,30,3;6,,Scotland Yard Casa ,
+g0043,Kaleidos,Casa,20,2+,,Kaleidos Casa ,https://www.dl.dropboxusercontent.com/scl/fi/rzpic59mzd5g3sna4a7p2/kaleidos.jpg?rlkey=04bjnr1rdi5qmg9onq9av58pd&dl=0
+g0044,Cranium,Casa,45;60,4+,,Cranium Casa ,
+g0045,Cortex+,Casa,15,2;6,,Cortex+ Casa ,
+g0046,I Soliti Sospetti,Casa,20,3;18,,I Soliti Sospetti Casa ,
+g0047,Metereopatici,Casa,45;60,2;4,,Metereopatici Casa ,
+g0048,Lego - City Alarm,Casa,10;20,2;4,,Lego - City Alarm Casa ,
+g0049,Adrenalina,Casa,60,3;5,,Adrenalina Casa ,
+g0050,Twister,Casa,15,2+,,Twister Casa ,
+g0051,Forza Quattro Travel,Casa,5,2,,Forza Quattro Travel Casa ,
+g0052,Carte Siciliane,Casa,15,1;4,Classico,Carte Siciliane Casa Classico,
+g0053,Carte Trentine,Casa,15,1;4,Classico,Carte Trentine Casa Classico,
+g0054,Carte Triestine,Casa,15,1;4,Classico,Carte Triestine Casa Classico,
+g0055,Carte Francesi,Casa,15,1;4,Classico,Carte Francesi Casa Classico,
+g0056,Pictionary,Casa,90,1;90,,Pictionary Casa ,
+g0057,Nome In Codice Visual,Casa,90,1;90,,Nome In Codice Visual Casa ,
+g0058,Monopoli,Casa,90,1;90,,Monopoli Casa ,
+g0059,Similo Storia,Casa,90,1;90,,Similo Storia Casa ,
+g0060,Similo Fiabe,Casa,90,1;90,,Similo Fiabe Casa ,
+g0061,Speedy Words,Casa,90,1;90,,Speedy Words Casa ,
+g0062,Potion,Casa,90,1;90,,Potion Casa ,
+g0063,Hive,Casa,90,1;90,,Hive Casa ,
+g0064,Cluedo Travel,Casa,90,1;90,,Cluedo Travel Casa ,
+g0065,Lego - Creationary,Casa,90,1;90,,Lego - Creationary Casa ,
+g0066,Bluff Party,Casa,90,1;90,,Bluff Party Casa ,
+g0067,Carcassonne,Casa,90,1;90,,,
+g0068,Focus Storia,Casa,90,1;90,,,
+g0069,Parola per Parola,Casa,90,1;90,,,
+g0070,Couleur de Paris,Casa,90,1;90,,,
+g0071,È Tutta un'Altra Storia,Casa,90,1;90,,,
+g0072,28,Casa,90,1;90,,,
+g0073,Azul - Maître Chocolatier,Casa,90,1;90,,,ok
+g0074,insektbanko - bug bingo,Casa,90,1;90,,,ok
+g0075,Paise - Il Gioco dei Trulli,Casa,90,1;90,,,ok
